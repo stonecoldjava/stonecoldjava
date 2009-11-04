@@ -13,7 +13,6 @@ alias lsg='ls -gfh'
 alias lh='ls -h1'
 alias lt='ls -lTsSa'
 alias lll='ls'
-alias cert="ssh cert@stg.labs.sabre.com"
 alias del='rm'
 alias deld='rm -Rf'
 alias dloc='~/bin/lock.sh LOCK'
